@@ -1,0 +1,7 @@
+input {
+    width: 3em;
+}
+svg {
+	border: thin solid black;
+	position: relative;
+}
