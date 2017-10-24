@@ -1,0 +1,16 @@
+body {
+  font-family: "Times New Roman", monospace;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size:18px;
+  background-image: url("4ff4c10b6c0316fa8709b723d0efabd6.jpg");
+  filter: drop-shadow(16px 16px 20px red);
+  text-decoration: underline wavy blue; 
+}
+input {
+    width: 3em;
+}
+svg {
+	border: thin solid black;
+	position: relative;
+}
